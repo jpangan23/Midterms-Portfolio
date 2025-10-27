@@ -27,6 +27,7 @@ SOURCE CODE:
 
 
 Sample Output 1:
+
 <img width="436" height="257" alt="image" src="https://github.com/user-attachments/assets/84244e71-3040-444f-8ba0-51d8fa4df58a" />
 
 Sample Output 2:
